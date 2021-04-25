@@ -2,11 +2,12 @@
 
 ## Raspberry Pi Classroom Management System for Creative Coding Classes
 
-"Web App" interface for managing a classroom of Raspberry Pi computers. Simplifies and greatly speeds up the process of the most common remote management tasks in the classroom:
+"Web App" interface for managing a classroom of Raspberry Pi computers. Simplifies and greatly speeds up the process of running the most common remote management tasks in the classroom (or at least the tasks I found myself running 10 to 20 times per class!):
 * Ping
 * VNC Remote Desktop
 * SSH Remote Shell
 * SFTP File Transfer 
+
 
 
 ## Architecture
@@ -14,6 +15,7 @@
 * Python (previously Bash) script set to run every minute as a cronjob
 	* Creates JSON file with info about Raspberry Pi client (e.g. hostname, user, MAC address)
 	* Runs curl to pass JSON data to PHP script on server
+
 
 ### Server
 * Web server PHP script listens for JSON data from Raspberry Pi clients
@@ -26,11 +28,13 @@
 		* Executes commands on server (e.g. ping, ssh, etc.) in response to data received through socket
 
 
+
 ## Additional Material
 ### Creative Coding Video Lesson for Absolute Beginners
 <a href="http://www.youtube.com/watch?v=fO8TsDkmXYQ" target="_blank">
 	<img src="./img/coding-video-lesson-preview.png" title="Click to watch example Creative Coding video lesson" width="480">
 </a>
+
 
 ### Poster Presentation on Teaching Coding using Remote Desktop Technology
 <a href="https://raw.githubusercontent.com/coding418/creative-coding-classroom/main/img/ltech-poster.png" target="_blank">
