@@ -2,7 +2,7 @@
 
 Raspberry Pi Classroom Management System for Creative Coding Classes
 
-<a href="./img/ltech-poster.png" target="_blank">
+<a href="https://raw.githubusercontent.com/coding418/creative-coding-classroom/main/img/ltech-poster.png" target="_blank">
 	<img src="./img/ltech-poster.png" title="Click to watch example Creative Coding video lesson" width="720">
 </a>
 
