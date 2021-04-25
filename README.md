@@ -1,4 +1,5 @@
-# creative-coding-classroom
+# Creative Coding Classroom
+
 Raspberry Pi Classroom Management System for Creative Coding Classes
 
 <a href="http://www.youtube.com/watch?v=fO8TsDkmXYQ" target="_blank">
