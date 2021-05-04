@@ -2,7 +2,7 @@
 
 ## Raspberry Pi Classroom Management System for Creative Coding Classes
 
-"Web App" interface for managing a classroom of Raspberry Pi computers. Simplifies and greatly speeds up the process of running the most common remote management tasks in the classroom - or at least the tasks I found myself running 10 to 20 times per class! It basically acts a launcher for applications and makes it much easier to interact directly with coding students in their IDE. Currently supports:
+"Web App" interface for managing a classroom of Raspberry Pi computers. Simplifies and greatly speeds up the process of running the most common remote management tasks in the classroom - or at least the tasks I found myself running 10 to 20 times per class! It basically acts a single-click launcher for applications and makes it much easier to interact directly with coding students in their IDE. Currently supports:
 * Ping
 * VNC Remote Desktop (Full Access and View-Only)
 * SSH Remote Shell
