@@ -12,24 +12,23 @@
 ## Screenshots
 ### VNC Remote Desktop
 ![VNC Full Icon](./img/02-vnc-full-icon.png)
-![VNC Full Preview](./img/02-vnc-full-preview.png)
+![VNC Full Preview](./img/02-vnc-preview.png)
 ![VNC View Icon](./img/01-vnc-view-icon.png)
 
-### SSH Secure Shell
-![SSH Icon](./img/03-ssh-icon.png)
-![SSH Preview](./img/03-ssh-preview.png)
 
 ### SSH Secure Shell
 ![SSH Icon](./img/03-ssh-icon.png)
 ![SSH Preview](./img/03-ssh-preview.png)
+
 
 ### Ping
 ![Ping Icon](./img/04-ping-icon.png)
 ![Ping Preview](./img/04-ping-preview.png)
 
-### Ping
+### SFTP Client
 ![SFTP Icon](./img/05-sftp-icon.png)
 ![SFTP Preview](./img/05-sftp-preview.png)
+
 
 ### Browse public HTML folder of host
 ![Web Icon](./img/06-web-icon.png)
