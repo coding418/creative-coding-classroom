@@ -50,7 +50,7 @@
 	* Contains details (e.g. hostname, user, IP address, last time seen) and clickable icons for common tasks (i.e. ping, ssh, vnc, sftp)
 
 * Node.js server:
-	* Uses WebSocket to listen for socket connections from "admin page" in browser
+	* Uses WebSocket to listen for socket connections from admin.php in browser
 	* Executes commands on server (e.g. ping, ssh, etc.) in response to data received through socket
 	* Some tasks (e.g. ping, ssh) launch a new terminal window and run in that window
 	* Some tasks (e.g. VNC, Filezilla SFTP) launch their own application window
