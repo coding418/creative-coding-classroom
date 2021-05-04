@@ -48,6 +48,7 @@
 * admin.php:
 	* Admin Page with dynamic table of up-to-date details about Raspberry Pi clients
 	* Contains details (e.g. hostname, user, IP address, last time seen) and clickable icons for common tasks (i.e. ping, ssh, vnc, sftp)
+	* Icons trigger JS functions when clicked that send data through WebSocket to Node.js server
 
 * Node.js server:
 	* Uses WebSocket to listen for socket connections from admin.php in browser
